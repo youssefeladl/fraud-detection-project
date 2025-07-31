@@ -1,5 +1,3 @@
-# fraud-detection-project
-End-to-end fraud detection with unbalanced data, ML models, and deep learning (Keras)
 # 🧠 Fraud Detection - End-to-End Project (1M+ Records)
 
 This is a complete, professional-grade machine learning and deep learning pipeline for detecting fraudulent transactions. The dataset used contains over **1 million real-world records**, and the problem is **highly imbalanced** — fraudulent cases form only a small fraction of the data.
